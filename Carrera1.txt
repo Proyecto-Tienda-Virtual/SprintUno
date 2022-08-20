@@ -7,3 +7,7 @@ Rol: Scrum Master
 Integrante 2
 Wiston Joel Vargas Murcia
 Rol: Desarrollador
+
+Integrante 3
+Bradley Ortiz Echavarria
+Rol: Desarrollador
