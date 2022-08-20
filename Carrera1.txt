@@ -19,3 +19,5 @@ Rol : Administrador de BD
 Integrante 5
 Laura Cristina Ibarra Vasquez
 Rol : Analista
+
+Creacion MAIN
