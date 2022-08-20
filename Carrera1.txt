@@ -11,3 +11,7 @@ Rol: Desarrollador
 Integrante 3
 Bradley Ortiz Echavarria
 Rol: Desarrollador
+
+Integrante 4
+Hernando Gomez Albarracin
+Rol : Administrador de BD
