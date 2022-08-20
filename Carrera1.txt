@@ -15,3 +15,7 @@ Rol: Desarrollador
 Integrante 4
 Hernando Gomez Albarracin
 Rol : Administrador de BD
+
+Integrante 5
+Laura Cristina Ibarra Vasquez
+Rol : Analista
